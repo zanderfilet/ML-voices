@@ -1,7 +1,3 @@
-# voculator
-Repository for the Spring 23 Voculator project
-
-    RESTRUCTURED REPO
 
         DATASETS: Contains datasets consisting of .wav files
 
